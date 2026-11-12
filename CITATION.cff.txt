@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this project if you use it."
+type: software
+title: "Periodontal Bone Loss Prediction Using Machine Learning"
+authors:
+  - family-names: "Barani"
+    given-names: "Amirali"
+version: 1.0.0
+date-released: "2026-11-12"
+repository-code: "https://github.com/BeMAFIA-cyber/Machine-Learning-Project--Periodontal-Bone-Loss-Prediction-Aticle-"
